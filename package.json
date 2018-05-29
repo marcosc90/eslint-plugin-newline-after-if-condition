@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-newline-after-if-condition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enforce new line after if condition",
   "keywords": [
     "eslint",
@@ -12,9 +12,6 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"
-  },
-  "dependencies": {
-    "requireindex": "~1.1.0"
   },
   "devDependencies": {
     "eslint": "4.12.0",
